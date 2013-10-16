@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blikinn</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnNewsMainScreenText">FRÉTTIR</string>
+    <string name="btnGamesResultsMainScreenText">LEIKIR &amp; ÚRSLIT</string>
+    <string name="btnPlayersMainScreenText">LEIKMENN</string>
+    <string name="btnTrophiesMainScreenText">BIKARASKÁPURINN</string>
+    <string name="btnRadioMainScreenText">ÚTVARP</string>
+    <string name="btnTvMainScreenText">BLIKAR TV</string>
+    <string name="btnPicturesMainScreenText">MYNDIR</string>
+    <string name="prufa">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper venenatis neque tempus mattis. Praesent felis dolor, gravida sit amet dolor sit amet, vulputate facilisis ligula. Duis lorem eros, sodales quis aliquam in, gravida eu enim. Cras convallis sem volutpat mauris tempor fermentum. Phasellus malesuada diam ut congue tempus. Sed suscipit nec justo quis vulputate. Suspendisse ultrices in arcu in tristique. Vestibulum feugiat massa vitae ornare dignissim. Etiam in egestas est, non adipiscing nulla. Morbi eget tempus est, ac feugiat lorem. Nam viverra, nunc sit amet dictum dignissim, erat eros pellentesque urna, nec porttitor tellus nisi eget lectus. Nam viverra, nunc sit amet dictum dignissim, erat eros pellentesque urna, nec porttitor tellus nisi eget lectus. Nam viverra, nunc sit amet dictum dignissim, erat eros pellentesque urna, nec porttitor tellus nisi eget lectus.</string>
+    <string name="logoAdText">Landsbankinn</string>
+    <string name="logoText">Blikinn</string>
+
+</resources>

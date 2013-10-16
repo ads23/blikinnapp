@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF" >
+
+    <LinearLayout
+        android:id="@+id/banner_blikinn"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginTop="0dip"
+        android:background="@drawable/banner_blikinn"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+	<Button
+        android:id="@+id/btnNewsMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnNewsMainScreenText" />
+
+    <Button
+        android:id="@+id/btnGamesResultsMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnGamesResultsMainScreenText" />
+
+    <Button
+        android:id="@+id/btnPlayersMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnPlayersMainScreenText" />
+
+    <Button
+        android:id="@+id/btnTrophiesMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnTrophiesMainScreenText" />
+    
+    <Button
+        android:id="@+id/btnPicturesMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnPicturesMainScreenText" />
+    
+    <Button
+        android:id="@+id/btnRadioMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnRadioMainScreenText" /> 
+        
+    <Button
+        android:id="@+id/btnTvMainScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:text="@string/btnTvMainScreenText" />      
+    
+</LinearLayout>

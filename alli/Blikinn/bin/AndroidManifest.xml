@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="is.blikar.blikinn"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar"
+        android:screenOrientation="portrait" >
+        
+        <activity
+            android:name="is.blikar.blikinn.SplashScreenLogo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+ 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="is.blikar.blikinn.SplashScreenAd"></activity>
+        <activity android:name="is.blikar.blikinn.MainScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.NewsScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.GamesResultsScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.PlayersMenScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.TrophiesMenScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.PicturesScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.RadioScreenActivity"></activity>
+        <activity android:name="is.blikar.blikinn.TvScreenActivity"></activity>
+    </application>
+
+</manifest>
